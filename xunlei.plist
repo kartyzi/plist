@@ -11,23 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sl.video.kcloud.n0808.com/5.21.1.1820.ipa?sign=5737464eeb716ec151eb240f390e6543&amp;t=5afd616a&amp;ts=1526554986&amp;hash=cf4fcab2e2bbe36cf78a627c59f3ae3f</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<integer>0</integer>
-					<key>url</key>
-					<string>http://firicon.fir.im/d8e86702279dff4b6426be3c1f21d5f16c666d66</string>
+					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bidq2hc51u7u1bm11lc317k01g4s7.ipa?e=1514194801&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:m8jRMdwm5ypL_ynj0w43L-5VaBs=</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
-					<string>http://firicon.fir.im/d8e86702279dff4b6426be3c1f21d5f16c666d66</string>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.xunlei.ithunder</string>
 				<key>bundle-version</key>
-				<string>5.21</string>
+				<string>5.27.1.2067</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>5.27.1.2067</string>
 				<key>title</key>
-				<string>更多福利微信1822412614</string>
+				<string>迅雷5.27-更多好玩请加微信：1822412614</string>
 			</dict>
 		</dict>
 	</array>
