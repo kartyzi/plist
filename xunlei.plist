@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bk67333dchv128n1bpf12po1klm7.ipa?e=1514947741&token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:MAhAiVYFdSvsqv9Br2bFO_sAqTc=</string>
+					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bidq2hc51u7u1bm11lc317k01g4s7.ipa?e=1514194801&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:m8jRMdwm5ypL_ynj0w43L-5VaBs=</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.xunlei.ithunder</string>
 				<key>bundle-version</key>
-				<string>5.28.1.2204</string>
+				<string>5.27.1.2067</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>5.28.1.2204</string>
+				<string>5.27.1.2067</string>
 				<key>title</key>
 				<string>迅雷5.28-更多好玩请加微信：1822412614</string>
 			</dict>
