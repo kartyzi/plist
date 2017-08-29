@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bidq2hc51u7u1bm11lc317k01g4s7.ipa?e=1514194801&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:m8jRMdwm5ypL_ynj0w43L-5VaBs=</string>
+					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bnfdiogs8l7gd110qt18173mv7.ipa?e=1519270682&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:jDR8eFZRdubF5ZrwN2N6CUvdEbE=</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<string>NO</string>
 					<key>url</key>
 					<string>http://i8cv.com/Icon.png</string>
 				</dict>
@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<string>NO</string>
 					<key>url</key>
 					<string>http://i8cv.com/Icon.png</string>
 				</dict>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xunlei.ithunder</string>
+				<string>com.xunlei.iosthunder</string>
 				<key>bundle-version</key>
-				<string>5.27.1.2067</string>
+				<string>5.29.1.2316</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>5.27.1.2067</string>
+				<string>迅雷</string>
 				<key>title</key>
-				<string>迅雷5.27-更多福利请加微信：1807033003</string>
+				<string>迅雷5.29-更多福利请加微信：1807033003</string>
 			</dict>
 		</dict>
 	</array>
