@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://adstatic.dashen.tv/zhibozhushou/RecPlay_20170822_1640.ipa</string>
+					<string>http://down.weapp.com/apps/zb/002/42/53/41/5a3daad81a2ab4e16235411d.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://i8cv.com/Icon.png</string>
 				</dict>
@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://i8cv.com/Icon.png</string>
 				</dict>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vlang.recScreen</string>
+				<string>com.youshixiu.newRecScreen</string>
 				<key>bundle-version</key>
-				<string>2.2.1</string>
+				<string>2.1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>直播助手</string>
+				<string>苹果录屏专家</string>
 				<key>title</key>
-				<string>直播助手-更多福利请加微信：1807033003</string>
+				<string>苹果录屏专家-更多好玩关注微信：1807033003</string>
 			</dict>
 		</dict>
 	</array>
