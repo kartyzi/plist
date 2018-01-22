@@ -11,8 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://qdhw.leaderhero.com/new2/20180122/g0blin_v1.0%28os10.0%29_180122093205_app.tongbu.com.ipa
-</string>
+                    <string>http://qdhw.leaderhero.com/new2/20180122/g0blin_v1.0%28os10.0%29_180122093205_app.tongbu.com.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -42,10 +41,9 @@
                 <key>subtitle</key>
                 <string>g0blin RC1</string>
                 <key>title</key>
-                <string>10.3.X_g0blin RC1</string>
+                <string>10.3.x_g0blin RC1</string>
             </dict>
         </dict>
     </array>
 </dict>
 </plist>
- 
