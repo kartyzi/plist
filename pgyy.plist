@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://cc.csccs.cc/index_files/pangu.png</string>
+					<string>http://cc.csccs.cc/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://cc.csccs.cc/index_files/pangu.png</string>
+					<string>http://cc.csccs.cc/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
